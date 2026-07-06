@@ -1,24 +1,38 @@
-# Max Faller’in Dante Çeşmesi (1965)
+# Dante-Brunnen · Five-language GitHub Pages module
 
-GitHub Pages için hazırlanmış statik tanıtım sayfası.
+Static page for Max Faller’s **Dante-Brunnen (1965)** in the LMU Munich courtyard, Veterinärstraße 1.
 
-## Kurulum
+Language order:
 
-1. Yeni repo açın: `dante-brunnen-page`
-2. Bu klasördeki dosyaları repoya yükleyin.
-3. GitHub → Settings → Pages → Deploy from branch → `main` / root seçin.
+1. Deutsch
+2. English
+3. Türkçe
+4. العربية
+5. فارسی
 
-## Turkologie Guide içine ekleme
+## Deploy as a standalone repo
 
-Turkologie Guide reposunda örneğin `projects/dante-brunnen/` klasörü açıp bu paket içeriğini oraya koyabilirsiniz. Ana sayfaya şu bağlantı eklenebilir:
+1. Create a GitHub repository, for example `dante-brunnen-page`.
+2. Upload all files in this folder.
+3. Go to GitHub → Settings → Pages → Deploy from branch → `main` / root.
+
+## Add to Turkologie Guide
+
+Create a folder such as:
+
+```text
+projects/dante-brunnen/
+```
+
+Copy this package into that folder and link it from the main page:
 
 ```html
 <a href="projects/dante-brunnen/" class="card">
-  <h3>Dante Çeşmesi · LMU</h3>
-  <p>Max Faller’in 1965 tarihli Dante-Brunnen anıtı için kısa ikonografik okuma.</p>
+  <h3>Dante-Brunnen · LMU München</h3>
+  <p>Fünfsprachige ikonographische Einführung zu Max Fallers Dante-Brunnen.</p>
 </a>
 ```
 
-## Kaynak
+## Source note
 
-Metin ve fotoğraflar: Ergün Özsoy, Haziran 2026. Temel çalışma notu: `Dante_Brunnen_Ikonografik_Okuma_v3.pdf`.
+Text and photos: Ergün Özsoy, June 2026. Based on the working paper: `Dante_Brunnen_Ikonografik_Okuma_v3.pdf`.
