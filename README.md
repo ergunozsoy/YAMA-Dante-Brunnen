@@ -1,38 +1,18 @@
-# Dante-Brunnen · Five-language GitHub Pages module
+# Dante Digital Monument Project v2.0
 
-Static page for Max Faller’s **Dante-Brunnen (1965)** in the LMU Munich courtyard, Veterinärstraße 1.
+A five-language GitHub Pages project for Max Faller's Dante Fountain (1965) in the LMU Munich courtyard, Veterinärstraße 1.
 
-Language order:
+## Languages
 
-1. Deutsch
-2. English
-3. Türkçe
-4. العربية
-5. فارسی
+Deutsch, English, Türkçe, العربية, فارسی.
 
-## Deploy as a standalone repo
+## v2.0 changes
 
-1. Create a GitHub repository, for example `dante-brunnen-page`.
-2. Upload all files in this folder.
-3. Go to GitHub → Settings → Pages → Deploy from branch → `main` / root.
+- The excursus on Coriolanus and Dede Korkut has been removed from the PDFs and web pages.
+- Comparative Dante iconography has been added with selected public-domain/free-license source links.
+- A scholarly bibliography has been added.
+- Separate RTL pages are provided for Arabic and Persian.
 
-## Add to Turkologie Guide
+## Contact
 
-Create a folder such as:
-
-```text
-projects/dante-brunnen/
-```
-
-Copy this package into that folder and link it from the main page:
-
-```html
-<a href="projects/dante-brunnen/" class="card">
-  <h3>Dante-Brunnen · LMU München</h3>
-  <p>Fünfsprachige ikonographische Einführung zu Max Fallers Dante-Brunnen.</p>
-</a>
-```
-
-## Source note
-
-Text and photos: Ergün Özsoy, June 2026. Based on the working paper: `Dante_Brunnen_Ikonografik_Okuma_v3.pdf`.
+Academic feedback: e.oezsoy@lmu.de

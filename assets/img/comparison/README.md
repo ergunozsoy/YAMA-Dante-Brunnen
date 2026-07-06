@@ -1,0 +1,4 @@
+Domenico di Michelino: Dante and the Three Realms (1465) - https://commons.wikimedia.org/wiki/Special:FilePath/Dante_Domenico_di_Michelino.jpg - Wikimedia Commons · Public Domain
+Sandro Botticelli: Map of Hell - https://commons.wikimedia.org/wiki/Special:FilePath/Sandro_Botticelli_-_La_Carte_de_l%27Enfer.jpg - Wikimedia Commons · Public Domain
+Gustave Doré: Paolo and Francesca - https://commons.wikimedia.org/wiki/Special:FilePath/Gustave_Dor%C3%A9_-_Paolo_and_Francesca_da_Rimini.jpg - Wikimedia Commons · Public Domain
+Auguste Rodin: The Gates of Hell - https://commons.wikimedia.org/wiki/Special:FilePath/Gates_of_Hell_sculpture_by_Rodin.JPG - Wikimedia Commons · free license/public domain status noted on source page
